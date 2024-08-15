@@ -1,5 +1,5 @@
 {
-  "name": "n8n-nodes-base",
+  "name": "n8n-nodes-beet-lake",
   "version": "0.1.0",
   "description": "A lake node for beet",
   "keywords": [
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ccastri/n8n-nodes-base.git"
+    "url": "https://github.com/ccastri/n8n-nodes-beet-lake.git"
   },
   "engines": {
     "node": ">=18.10",
